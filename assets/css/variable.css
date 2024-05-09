@@ -1,0 +1,31 @@
+:root {
+
+
+    --dark-dark-blue: #14202e;
+    --darkblue: #1b2b3d;
+    --darkblueavr: #1d3246;
+    --lightblue: #4c74a5;
+    --skinorange: #ff8c61;
+    --skinorangeshadow: #884730;
+    --black: #000000;
+    --dark: #212529;
+    --off-white: #bababa;
+    --off-of-white: #bababa6d;
+    --white: #ffffff;
+
+    --ff-karla: "Karla", sans-serif;
+
+    --section-heading: 40px;
+    --fs-lg: 22px;
+    --fs-md: 17px;
+    --fs-sm: 16px;
+    --fs-x-sm: 14px;
+
+    --fw-7: 700;
+    --fw-6: 600;
+    --fw-5: 500;
+
+
+    --px: 120px; 
+
+}
